@@ -3,7 +3,7 @@
 > A modern, responsive, and elegant hotel room booking UI built with HTML5, Bootstrap, custom CSS, jQuery, Animate.css, Isotope, and Masonry.
 
 ## 🌐 Live Demo
-(Your live link here)
+https://thalia-hotel-ui.vercel.app
 
 ## 📂 Repository
 https://github.com/RHS-Rabbi/thalia-hotel-frontend
