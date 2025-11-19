@@ -6,7 +6,7 @@
 https://thalia-hotel-ui.vercel.app
 
 ## 📂 Repository
-https://github.com/RHS-Rabbi/thalia-hotel-frontend
+https://github.com/RHS-Rabbi/Thalia-hotel-ui
 
 ## 🏨 Overview
 Thalia Hotel is a clean and modern hotel room booking interface designed for showcasing rooms, filtering categories, and providing users with a smooth, welcoming experience. The UI includes animated transitions, responsive layouts, room filtering, and a beautifully structured Masonry-style grid.
